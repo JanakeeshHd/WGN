@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // --- WhatsApp Message Generation ---
-    const PHONE_NUMBER = '919482436030'; // Replace with actual number
+    const PHONE_NUMBER = '918792389634'; // Replace with actual number
 
     whatsappForm.addEventListener('submit', (e) => {
         e.preventDefault();
